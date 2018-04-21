@@ -12,5 +12,5 @@
 ## 3. 구현 과정
 아두이노 메가보드 기반으로 풍차를 돌리기 위한 모터, 빛의 세기에 반응하는 달의 경우는 조도센서, 손이 다가오면 반응하는 매화는 근접센서, 폭포소리를 위한 미디어 센서 등 다양한 아두이노 부품을 이용해 직접 점퍼선으로 연결하고 납땜하면서 구현을 진행했습니다. 
 
-
-<img src="https://github.com/khseob0715/ResponsibleDesign/blob/master/ProjectResult.jpg" width="350px"><img src="https://github.com/khseob0715/ResponsibleDesign/blob/master/ProjectResult%20(2).jpg" width="350px">
+## 4. 구현 결과
+<img src="https://github.com/khseob0715/ResponsibleDesign/blob/master/ProjectResult.jpg" width="350px">   <img src="https://github.com/khseob0715/ResponsibleDesign/blob/master/ProjectResult%20(2).jpg" width="350px">
